@@ -7,7 +7,7 @@ I plan on graduating in May 2021.
 ## What am I up to? 😎
 
 ### This month, I am working on 💻
-* Android development for a journaling app
+* Creating a React Native journaling app
 * AWS Certification to become a Certified Cloud Practitioner ☁️
 
 ### Courses I am taking in Spring 2021 ✏️

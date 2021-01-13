@@ -8,7 +8,6 @@ I plan on graduating in May 2021.
 
 ### This month, I am working on 💻
 * Creating a React Native journaling app
-* AWS Certification to become a Certified Cloud Practitioner ☁️
 
 ### Courses I am taking in Spring 2021 ✏️
 * 15-451 Design and Analysis of Algorithms
@@ -25,5 +24,4 @@ I plan on graduating in May 2021.
 * Web stack - Django, as well as JavaScript based stacks! Can't choose 🤦
 
 ### Books I'm reading 📚
-* Stillness is the Key by Ryan Holiday
-* Giver of Stars by Jojo Meyers
+* The Wind-Up Bird Chronicle by Haruki Murakami

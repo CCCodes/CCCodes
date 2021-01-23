@@ -20,7 +20,6 @@ I plan on graduating in May 2021.
 * My idol - Mary Jackson - an inspiring engineer who overcame adversity
 * Programming blog - [Palant.info](https://palant.info/articles/) has the inside scoop about privacy on the web
 * Scripting language - Python. NumPy makes stuff so easy!
-* Object-oriented language - Java - I love it for Android development and video game modding
 * Web stack - Django, as well as JavaScript based stacks! Can't choose 🤦
 
 ### Books I'm reading 📚

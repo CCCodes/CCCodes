@@ -6,10 +6,7 @@ I plan on graduating in May 2021.
 
 ## What am I up to? 😎
 
-### This month, I am working on 💻
-* Creating a React Native journaling app
-
-### Courses I am taking in Spring 2021 ✏️
+### Courses I am taking this semester ✏️
 * 15-451 Design and Analysis of Algorithms
 * 10-405 Machine Learning with Large Datasets
 * 10-708 Probabilistic Graphical Models

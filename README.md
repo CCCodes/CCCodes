@@ -1,15 +1,8 @@
 # Hey, didn't see you there!
 
 My name is Caitlin Chou and I have a passion for software and making the world a better place🌎.
-Currently, I am a student at Carnegie Mellon University, studying computer science with a concentration in machine learning.
-I plan on graduating in May 2021.
-
-## What am I up to? 😎
-
-### Courses I am taking this semester ✏️
-* 15-451 Design and Analysis of Algorithms
-* 10-405 Machine Learning with Large Datasets
-* 10-708 Probabilistic Graphical Models
+I love backpacking, reading, and music.
+Currently, I am in the process of moving to the San Francisco Bay Area.
 
 ## About me 👧🏻
 
@@ -20,4 +13,5 @@ I plan on graduating in May 2021.
 * Web stack - Django, as well as JavaScript based stacks! Can't choose 🤦
 
 ### Books I'm reading 📚
-* The Wind-Up Bird Chronicle by Haruki Murakami
+* The Bell Jar by Sylvia Plath
+* Children of Blood and Bone by Tomi Adeyemi

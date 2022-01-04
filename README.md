@@ -1,17 +1,14 @@
 # Hey, didn't see you there!
 
-My name is Caitlin Chou and I have a passion for software and making the world a better place🌎.
-I love backpacking, reading, and music.
-Currently, I am in the process of moving to the San Francisco Bay Area.
+My name is Caitlin Chou. I am an app developmer and have a passion for making the world a better place🌎.
 
-## About me 👧🏻
-
-### My favorite things... ⭐
-* My idol - Mary Jackson - an inspiring engineer who overcame adversity
-* Programming blog - [Palant.info](https://palant.info/articles/) has the inside scoop about privacy on the web
-* Scripting language - Python. NumPy makes stuff so easy!
-* Web stack - Django, as well as JavaScript based stacks! Can't choose 🤦
+### I stand for ✊
+* Environmental policy and sustainable living
+* The autonomy and empowerment of women
+* Separation of church and state
+* Minimizing suffering of sentient beings
 
 ### Books I'm reading 📚
-* The Bell Jar by Sylvia Plath
-* Children of Blood and Bone by Tomi Adeyemi
+* In the Buddha's Words: An Anthology of Discourses from the Pali Canon
+* How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need
+* Six of Crows

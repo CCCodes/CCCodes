@@ -9,6 +9,6 @@ My name is Caitlin Chou. I am an app developmer and have a passion for making th
 * Separation of church and state
 
 ### Books I'm reading 📚
-* In the Buddha's Words: An Anthology of Discourses from the Pali Canon
-* How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need
-* Six of Crows
+* In the Buddha's Words: An Anthology of Discourses from the Pali Canon by Bhikkhu Bodhi
+* How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need by Bill Gates
+* Six of Crows by Leigh Bardugo

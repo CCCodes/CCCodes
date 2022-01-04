@@ -1,6 +1,6 @@
 # Hey, didn't see you there!
 
-My name is Caitlin Chou. I am an app developmer and have a passion for making the world a better place🌎.
+My name is Caitlin Chou. I am an app developer and have a passion for making the world a better place🌎.
 
 ### I stand for ✊
 * Environmental policy and sustainable living
